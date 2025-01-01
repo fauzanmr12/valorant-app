@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">Valorant Agent</string>
+    <string name="agents_name">Nama Agent</string>
+    <string name="description">Deskripsi</string>
+    <string name="about">About</string>
+    <string name="role">Role</string>
+    <string name="strenght_weaknesses">Kelebihan &amp; Kekurangan</string>
+    <string name="desktripsi_kelebihan">Desktripsi Kelebihan</string>
+    <string name="kelebihan">Kelebihan</string>
+    <string name="kekurangan">Kekurangan</string>
+    <string name="desktripsi_kekurangan">Desktripsi Kekurangan</string>
+    <string name="share">Share!</string>
+
+    <string-array name="data_name">
+        <item>Brimstone</item>
+        <item>Viper</item>
+        <item>Omen</item>
+        <item>Sova</item>
+        <item>Sage</item>
+        <item>Phoenix</item>
+        <item>Jett</item>
+        <item>Raze</item>
+        <item>Cypher</item>
+        <item>Killjoy</item>
+    </string-array>
+    <string-array name="data_role">
+        <item>Controller</item>
+        <item>Controller</item>
+        <item>Controller</item>
+        <item>Initiator</item>
+        <item>Sentinel</item>
+        <item>Duelist</item>
+        <item>Duelist</item>
+        <item>Duelist</item>
+        <item>Sentinel</item>
+        <item>Sentinel</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Brimstone adalah seorang pemimpin taktis yang memiliki kemampuan untuk mengendalikan pertempuran dengan smokescreen dan dukungan udara. Dengan kemampuannya yang unik, dia dapat menutupi area dengan asap, memberikan visi yang lebih baik bagi timnya, dan menyerang musuh dari jarak jauh.</item>
+        <item>Viper adalah seorang ahli biokimia yang memanfaatkan gas beracun untuk mengendalikan area. Kemampuan-kemampuannya memungkinkan dia untuk menciptakan zona berbahaya yang merugikan musuh, sekaligus memberikan penyembuhan kepada dirinya sendiri saat berperang dalam api.</item>
+        <item>Omen adalah agen misterius yang memiliki kemampuan untuk bergerak melalui bayangan. Dengan teleportasi yang unik dan kemampuan untuk mengaburkan visi musuh, dia bisa menjadi ancaman tak terduga di medan perang, menciptakan ketidakpastian di barisan musuh.</item>
+        <item>Sova adalah seorang pemburu dan pengintai yang menggunakan teknologi untuk mengungkap informasi musuh. Dengan panahnya yang memiliki kemampuan deteksi dan kerusakan, dia dapat mengungkap posisi musuh, memberikan keuntungan bagi timnya dalam pertempuran.</item>
+        <item>Sage adalah seorang penyembuh dan pelindung yang dapat menghidupkan kembali rekan satu tim yang jatuh. Dengan kemampuan untuk menyembuhkan dan menciptakan penghalang, dia menjadi tulang punggung timnya, memastikan bahwa mereka dapat bertahan lebih lama dalam pertempuran.</item>
+        <item>Phoenix adalah seorang duelistik yang mengandalkan api untuk menyerang. Dengan kemampuan untuk menyembuhkan dirinya sendiri dan menciptakan dinding api, dia menjadi agresor yang berani, siap menghadapi musuhnya dengan keberanian dan kekuatan.</item>
+        <item>Jett adalah agen yang cepat dan gesit, mengandalkan kecepatan dan mobilitas untuk mengalahkan musuh. Dengan kemampuan untuk meluncur dan menggunakan belati, dia dapat menyerang dengan cepat dan melarikan diri sebelum musuh bisa membalas.</item>
+        <item>Raze adalah seorang pembuat kekacauan yang menggunakan berbagai gadget peledak untuk mengalahkan musuh. Dengan kemampuan untuk mengatur perangkap dan meluncurkan roket, dia dapat mengendalikan area pertempuran dengan ledakan yang mematikan.</item>
+        <item>Cypher adalah agen yang mengawasi pergerakan musuh dengan alat pengintai. Dengan kamera dan perangkapnya, dia dapat memberikan informasi berharga kepada timnya, memungkinkan mereka untuk membuat keputusan taktis yang lebih baik selama pertempuran.</item>
+        <item>Killjoy adalah seorang teknisi yang mengandalkan gadget untuk melindungi area. Dengan turrets dan alat pengawasan lainnya, dia bisa menciptakan pertahanan yang kuat, menjaga area dan memberikan informasi kepada timnya tentang pergerakan musuh.</item>
+    </string-array>
+
+    <!-- Kelebihan (Strengths) -->
+    <string-array name="data_strengths">
+        <!-- Brimstone -->
+        <item>Kontrol area yang kuat dengan kemampuan Smoke dan Molotov.\nOrbital Strike sangat efektif untuk memaksa musuh keluar dari posisi penting atau mengeliminasi musuh di area sempit.\nMudah digunakan untuk pemula dengan kemampuan yang langsung berfokus pada dukungan tim.</item>
+        <!-- Viper -->
+        <item>Toxic Screen dan Poison Cloud memberikan kontrol area yang sangat baik dan dapat memberikan kerusakan berkelanjutan.\nSnakebite memberikan efek debuff yang mematikan jika dikombinasikan dengan tembakan dari rekan tim.\nUltimate Viper’s Pit sangat kuat untuk situasi clutch atau mengontrol spike site.</item>
+        <!-- Omen -->
+        <item>Mobilitas tinggi dengan kemampuan Shrouded Step dan From the Shadows untuk repositioning dan menyerang dari sudut tak terduga.\nParanoia bisa membuat musuh buta dan terkejut, cocok untuk membuka serangan tim.\nFleksibilitas dalam pengendalian asap (Smoke) yang bisa dipindahkan sesuai keperluan.</item>
+        <!-- Sova -->
+        <item>Recon Bolt dan Owl Drone sangat kuat untuk mengumpulkan informasi tanpa risiko besar.\nShock Bolt memberikan damage area yang baik dan bisa digunakan untuk menyerang musuh di belakang cover.\nUltimate Hunter’s Fury sangat efektif untuk menyerang musuh yang bersembunyi atau mengontrol spike plant area dari jarak jauh.</item>
+        <!-- Sage -->
+        <item>Satu-satunya agen yang bisa revive rekan tim dengan ultimate, membuatnya sangat penting di situasi clutch.\nHealing Orb memungkinkan untuk mendukung rekan tim di tengah baku tembak.\nBarrier Orb sangat kuat untuk mengontrol akses musuh ke area penting.</item>
+        <!-- Phoenix -->
+        <item>Kemampuan Blaze dan Hot Hands memberikan kemampuan penyembuhan diri sendiri saat digunakan dengan benar.\nCurveball memberikan keuntungan dalam duel jarak dekat dengan membutakan musuh.\nUltimate Run It Back memungkinkan Phoenix untuk bermain agresif tanpa risiko kehilangan nyawa.</item>
+        <!-- Jett -->
+        <item>Mobilitas yang sangat tinggi dengan Tailwind dan Updraft, memungkinkannya melakukan flank atau melarikan diri dengan cepat.\nCloudburst bisa digunakan untuk taktik quick-peek atau menyembunyikan posisi.\nUltimate Blade Storm sangat mematikan, terutama untuk pertarungan jarak dekat dan sedang.</item>
+        <!-- Raze -->
+        <item>Boom Bot dan Grenades sangat efektif untuk membersihkan area dan memaksa musuh keluar dari tempat berlindung.\nUltimate Showstopper memberikan damage besar, cocok untuk membubarkan formasi musuh.\nSangat kuat untuk area denial dengan kemampuan peledak yang memberikan tekanan terus-menerus.</item>
+        <!-- Cypher -->
+        <item>Spycam dan Trapwire memungkinkan Cypher mengumpulkan informasi tanpa risiko besar, memberikan keuntungan dalam memantau pergerakan musuh.\nCyber Cage bisa digunakan untuk memperlambat dan menyulitkan musuh dalam menyerang.\nUltimate Neural Theft sangat kuat untuk memberikan informasi tentang posisi musuh yang tersisa.</item>
+        <!-- Killjoy -->
+        <item>Turret dan Nanoswarm memberikan tekanan dan area denial yang kuat, sangat berguna untuk bertahan di spike site.\nAlarmbot bisa digunakan untuk memprediksi dan mengatur jebakan di area yang sering dilewati musuh.\nUltimate Lockdown sangat kuat untuk mengontrol area besar dan memaksa musuh keluar dari posisi.</item>
+    </string-array>
+
+    <!-- Kekurangan (Weaknesses) -->
+    <string-array name="data_weaknesses">
+        <!-- Brimstone -->
+        <item>Kurang mobilitas dan fleksibilitas dibandingkan agen lain.\nBergantung pada tim; kurang efektif untuk permainan agresif solo.\nSmoke-nya tidak bisa bergerak setelah ditempatkan, sehingga bisa dibaca musuh.</item>
+        <!-- Viper -->
+        <item>Butuh koordinasi tim yang baik untuk memaksimalkan efek racunnya.\nKemampuan gas memerlukan pengelolaan yang baik terhadap sumber daya Fuel, membuatnya kurang efektif jika digunakan sembarangan.\nBergantung pada posisi; tidak fleksibel untuk gaya bermain agresif.</item>
+        <!-- Omen -->
+        <item>Rentan terhadap waktu cooldown dan harus menggunakan kemampuan dengan hati-hati.\nTeleportasinya berisiko jika digunakan tanpa perhitungan karena bisa dibaca oleh musuh.\nKurang efektif dalam memberikan damage langsung, lebih cocok untuk taktik dan pengelabuan.</item>
+        <!-- Sova -->
+        <item>Kemampuannya tergantung pada keakuratan, terutama Recon Bolt yang perlu diposisikan dengan baik untuk memaksimalkan visibilitas.\nKurang mobilitas, membuatnya rentan jika musuh menyerang dengan cepat.\nMembutuhkan pemahaman peta yang baik untuk memaksimalkan panahnya.</item>
+        <!-- Sage -->
+        <item>Kemampuan untuk menyembuhkan terbatas oleh cooldown, tidak bisa digunakan terus-menerus.\nBarrier Orb bisa dihancurkan, sehingga kadang tidak selalu efektif.\nKurang kemampuan serangan langsung; lebih bergantung pada tim untuk menyerang.</item>
+        <!-- Phoenix -->
+        <item>Kemampuan penyembuhannya tergantung pada api, yang mungkin tidak selalu mudah dilakukan di tengah pertarungan.\nBergantung pada jarak dekat; kurang efektif dalam situasi jarak jauh.\nMudah diprediksi; musuh yang sudah terbiasa dengan Curveball bisa menghindarinya.</item>
+        <!-- Jett -->
+        <item>Mobilitasnya bisa menjadi kelemahan jika tidak digunakan dengan baik, karena bisa membuatnya terpisah dari tim.\nKurang kontrol area dibandingkan dengan Duelist lainnya.\nTidak memiliki kemampuan penyembuhan atau perlindungan untuk tim.</item>
+        <!-- Raze -->
+        <item>Bisa terlalu agresif; kurang efektif jika tim tidak mendukungnya.\nKurang mobilitas dibandingkan Duelist lain seperti Jett.\nPenggunaan kemampuan peledaknya bisa berisiko jika digunakan tanpa pertimbangan, bisa merugikan tim sendiri.</item>
+        <!-- Cypher -->
+        <item>Kemampuan kontrol areanya kurang fleksibel dan mudah dihancurkan oleh musuh yang waspada.\nKurang kemampuan serangan langsung; lebih cocok untuk defensif dan intelijen.\nRentan saat mengatur perangkap di lokasi yang mudah terbaca.</item>
+        <!-- Killjoy -->
+        <item>Kemampuannya tergantung pada penempatan gadget, yang bisa dihancurkan atau dihindari musuh.\nKurang efektif dalam situasi agresif; lebih baik digunakan untuk bertahan.\nRentan terhadap pemain yang memiliki kemampuan untuk menghindari gadget atau menyerang dari jarak jauh.</item>
+    </string-array>
+
+</resources>

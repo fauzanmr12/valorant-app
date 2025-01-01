@@ -1,0 +1,29 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.valorantAgentApp" parent="Theme.Material3.DayNight">
+        <item name="colorPrimary">@color/red</item>
+        <item name="colorSecondary">@color/black</item>
+    </style>
+
+    <style name="Title">
+        <item name="android:textStyle">bold</item>
+    </style>
+    
+    <style name="Title.Headline1">
+        <item name="android:textSize">25sp</item>
+        <item name="android:textColor">@color/red</item>
+    </style>
+
+    <style name="Title.Headline2">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="Theme.NoActionBar" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/red</item>
+        <item name="colorSecondary">@color/black</item>
+    </style>
+    
+
+    <style name="Theme.ValorantAgentApp" parent="Base.Theme.valorantAgentApp" />
+</resources>
